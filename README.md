@@ -16,9 +16,15 @@ A touchless fingerprint verification system that uses a custom CNN model for bio
 ## 🛠 Requirements
 
 ```bash
-pip install tensorflow opencv-python scikit-learn pillow
+pip install tensorflow opencv-python scikit-learn
 ```
+✅ This includes:
 
+tensorflow – for CNN model training
+
+opencv-python – for image reading and preprocessing
+
+scikit-learn – for normalization and evaluation metrics
 ## 🚀 How to Run
 
 ```bash
